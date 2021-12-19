@@ -1,0 +1,26 @@
+{
+    "id": "10C2C5D7",
+    "path": "~/simpleapp/R/app_ui.R",
+    "project_path": "R/app_ui.R",
+    "type": "r_source",
+    "hash": "2922448259",
+    "contents": "",
+    "dirty": false,
+    "created": 1639954022283.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,26",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639954035,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639954035552,
+    "read_only": false,
+    "read_only_alternatives": []
+}

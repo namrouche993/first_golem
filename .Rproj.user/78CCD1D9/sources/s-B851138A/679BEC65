@@ -1,0 +1,26 @@
+{
+    "id": "679BEC65",
+    "path": "~/simpleapp/dev/03_deploy.R",
+    "project_path": "dev/03_deploy.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1639954011012.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "37,0",
+        "scrollLine": "22"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639953969,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639953969,
+    "read_only": false,
+    "read_only_alternatives": []
+}
